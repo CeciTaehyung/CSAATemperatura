@@ -1,0 +1,12 @@
+C:\Users\MINEDUCYT\Documents\Downloads\CSAA.Temperatura\CSAA.Temperatura\bin\Debug\net6.0\CSAA.Temperatura.deps.json
+C:\Users\MINEDUCYT\Documents\Downloads\CSAA.Temperatura\CSAA.Temperatura\bin\Debug\net6.0\CSAA.Temperatura.dll
+C:\Users\MINEDUCYT\Documents\Downloads\CSAA.Temperatura\CSAA.Temperatura\bin\Debug\net6.0\CSAA.Temperatura.pdb
+C:\Users\MINEDUCYT\Documents\Downloads\CSAA.Temperatura\CSAA.Temperatura\obj\Debug\net6.0\CSAA.Temperatura.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Documents\Downloads\CSAA.Temperatura\CSAA.Temperatura\obj\Debug\net6.0\CSAA.Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Documents\Downloads\CSAA.Temperatura\CSAA.Temperatura\obj\Debug\net6.0\CSAA.Temperatura.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Documents\Downloads\CSAA.Temperatura\CSAA.Temperatura\obj\Debug\net6.0\CSAA.Temperatura.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Documents\Downloads\CSAA.Temperatura\CSAA.Temperatura\obj\Debug\net6.0\CSAA.Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Documents\Downloads\CSAA.Temperatura\CSAA.Temperatura\obj\Debug\net6.0\CSAA.Temperatura.dll
+C:\Users\MINEDUCYT\Documents\Downloads\CSAA.Temperatura\CSAA.Temperatura\obj\Debug\net6.0\refint\CSAA.Temperatura.dll
+C:\Users\MINEDUCYT\Documents\Downloads\CSAA.Temperatura\CSAA.Temperatura\obj\Debug\net6.0\CSAA.Temperatura.pdb
+C:\Users\MINEDUCYT\Documents\Downloads\CSAA.Temperatura\CSAA.Temperatura\obj\Debug\net6.0\ref\CSAA.Temperatura.dll

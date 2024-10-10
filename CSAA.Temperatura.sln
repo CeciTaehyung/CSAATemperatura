@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSAA.Temperatura", "CSAA.Temperatura\CSAA.Temperatura.csproj", "{20F4CF12-B1B3-41F7-A0B1-295480CE0261}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSAA.Temperatura.UnitTest.AppMsTest", "CSAA.Temperatura.UnitTest.AppMsTest\CSAA.Temperatura.UnitTest.AppMsTest.csproj", "{5F278444-F2E2-4185-93EF-26570C1B3516}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20F4CF12-B1B3-41F7-A0B1-295480CE0261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20F4CF12-B1B3-41F7-A0B1-295480CE0261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20F4CF12-B1B3-41F7-A0B1-295480CE0261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20F4CF12-B1B3-41F7-A0B1-295480CE0261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F278444-F2E2-4185-93EF-26570C1B3516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F278444-F2E2-4185-93EF-26570C1B3516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F278444-F2E2-4185-93EF-26570C1B3516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F278444-F2E2-4185-93EF-26570C1B3516}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E6E8E92-38A3-426E-94BD-C8C290D2D99A}
+	EndGlobalSection
+EndGlobal
